@@ -20,8 +20,11 @@ It showcases some of my practice projects from freeCodeCamp and provides links t
 2. Open `index.html` in your browser.
 3. You can customize the content and styles in `index.html` and `css/index2.css`.
 
-You can view the live version of this project here:
-🔗 Personal Portfolio Website
+
+## 🌐 Live Demo
+
+You can view the live version of this project here:  
+🔗 [Personal Portfolio Website](https://najmeh25.github.io/personal-portfolio-main/)
 
 
 This portfolio links to the following freeCodeCamp practice projects:
