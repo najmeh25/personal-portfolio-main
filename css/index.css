@@ -28,7 +28,7 @@ body{
 #header{
     background-color: rgb(14, 13, 13);
     color: antiquewhite;
-    height: 500px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -221,4 +221,20 @@ h2{
 }
 .line1{
     border: 1px solid  white ;
+}
+
+#cv-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 20px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#cv-button:hover {
+    background-color: #45a049;
 }
